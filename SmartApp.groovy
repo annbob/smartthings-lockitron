@@ -49,7 +49,7 @@ mappings {
 
 def getChildNamespace() { return "com.openmobl.device.lockitron" }
 def getChildName() { return "Lockitron" }
-def getServerUrl() { return "https://graph.api.smartthings.com" }
+def getServerUrl() { return "https://graph-na02-useast1.api.smartthings.com" }
 // Authorise
 def getAuthCodeUrl() { return "https://api.lockitron.com/oauth/authorize" }
 def getAccessTokenUrl() { return "https://api.lockitron.com/oauth/token" }
